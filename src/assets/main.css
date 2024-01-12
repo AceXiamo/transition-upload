@@ -1,0 +1,5 @@
+@import './base.css';
+
+body {
+  min-height: 100vh;
+}
