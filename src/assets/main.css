@@ -1,5 +1,17 @@
-@import './base.css';
+:root {
+  color-scheme: light dark;
+}
+
+[data-theme='dark'] {
+  --bg: #333;
+}
+
+[data-theme='light'] {
+  --bg: #f9fafb;
+}
 
 body {
   min-height: 100vh;
+  margin: unset;
+  background-color: var(--bg);
 }
