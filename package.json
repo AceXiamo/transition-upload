@@ -17,7 +17,6 @@
   },
   "devDependencies": {
     "@tsconfig/node18": "^18.2.2",
-    "@types/dom-view-transitions": "^1.0.4",
     "@types/node": "^18.19.3",
     "@types/sortablejs": "^1.15.7",
     "@vitejs/plugin-vue": "^4.5.2",
